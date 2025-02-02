@@ -54,7 +54,7 @@ Uma aplicação simples feita com **PyQt5** que permite calcular a média de qua
 
 Aqui está uma captura da interface:
 
-![Captura da tela do programa](link-para-sua-imagem.png)
+![Captura da tela do programa](https://raw.githubusercontent.com/alisonSilvaa/py-grade-calc/refs/heads/main/imagem_2025-02-02_202229830.png)
 
 ---
 
