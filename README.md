@@ -56,8 +56,3 @@ Aqui está uma captura da interface:
 
 ![Captura da tela do programa](https://raw.githubusercontent.com/alisonSilvaa/py-grade-calc/refs/heads/main/imagem_2025-02-02_202229830.png)
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
